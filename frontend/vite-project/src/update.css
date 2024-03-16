@@ -1,0 +1,27 @@
+body{
+    background-color: brown;
+}
+.h1{
+    font-weight:900;
+    font-size: 4rem;
+    position: absolute;
+    left: 50rem;
+    top: 3rem;
+}
+.inpujan{
+    text-decoration-color: black;
+    font-size: 2rem;
+    font-weight: 900;
+    position: absolute;
+    left: 41rem;
+    top: 10rem;
+}
+.buttonjan{
+    background-color: blue;
+    padding: 2rem 2rem 2rem 2rem;
+    font-size: 2rem;
+    font-weight: 900;
+    position: absolute;
+    left: 64.4rem;
+    top: 19rem;
+}
